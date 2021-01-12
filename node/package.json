@@ -1,0 +1,14 @@
+{
+  "name": "lognetpipe",
+  "version": "0.0.1",
+  "description": "pip commands to loggernet through mqtt",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Dan Edens <Dan.Edens@Geo-instruments.com> (https://github.com/DanEdens)",
+  "license": "ISC",
+  "dependencies": {
+    "corascript": "0.0.2"
+  }
+}
